@@ -10,7 +10,8 @@
 [![Website Status](https://img.shields.io/badge/Status-Production%20Ready-00E599?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com)
 [![Solid 925 Hallmarked](https://img.shields.io/badge/Material-Solid%20925%20Silver-E2E8F0?style=for-the-badge&logo=ring&logoColor=0B0D11)](https://github.com)
 [![Built with Vanilla JS](https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com)
-[![GitHub Co-Authored](https://img.shields.io/badge/Collaboration-Zohair%20%C3%97%20Zarmeen-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![GitHub Co-Authored](https://img.shields.io/badge/Collaboration-Zohair%20%C3%97%20Zarmeen-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zohairhingoro/AETHER)
+[![Forked Repository](https://img.shields.io/badge/Fork-zarmeenhussain%2FAETHER-black?style=for-the-badge&logo=git&logoColor=white)](https://github.com/zarmeenhussain/AETHER)
 
 [Explore Collection](#-the-curated-drops-catalog) • [Watch Demo](#-walkthrough-video-demo) • [Key Features](#-interactive-features--uiux) • [Dual Collaboration Guide](#-two-profile-github-collaboration--achievements) • [Setup](#-getting-started)
 
@@ -208,12 +209,12 @@ git add .
 # Make a Co-Authored Commit
 git commit -m "feat: launch AETHER 925 boutique solid sterling silver showcase
 
-Co-authored-by: Zarmeen Hussain <zarmeenhussain@users.noreply.github.com>
-Co-authored-by: Zohair Hingoro <Zohairhingoro@users.noreply.github.com>"
+Co-authored-by: Zarmeen Hussain <339199342+zarmeenhussain@users.noreply.github.com>
+Co-authored-by: Zohair Hingoro <student1596270aptechii@gmail.com>"
 ```
 
 > [!TIP]
-> **GitHub Email Matching**: Make sure the emails used in `Co-authored-by:` match each user's GitHub primary email or their GitHub `username@users.noreply.github.com` address (found under GitHub Settings > Emails).
+> **GitHub Email Matching**: Both contributors must use their verified GitHub addresses. Zarmeen's GitHub ID is `339199342`, meaning her verified noreply is `339199342+zarmeenhussain@users.noreply.github.com`.
 
 ---
 
