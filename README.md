@@ -251,6 +251,8 @@ To show the repository directly in both profiles' repositories lists:
 | GitHub Achievement | How to Trigger |
 |--------------------|----------------|
 | **Pair Extraordinaire** 👯 | Create a branch, make a commit with the `Co-authored-by:` trailer (as shown above), open a Pull Request, and merge it into `main`. **Both profiles will instantly unlock this badge!** |
+<!-- Co-authored with Zohair Hingoro -->
+
 | **Pull Shark** 🦈 | Submit a Pull Request from a feature branch or fork and merge it into `main`. |
 | **Quickdraw** ⚡ | Close an issue or Pull Request within 5 minutes of opening it. |
 
@@ -291,3 +293,5 @@ Now, go to GitHub, click **Compare & pull request**, and merge it into `main`. B
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) — free for educational, personal, and commercial study.
+<!-- Co-authored with Zohair Hingoro -->
+
