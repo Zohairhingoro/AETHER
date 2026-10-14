@@ -209,12 +209,12 @@ git add .
 # Make a Co-Authored Commit
 git commit -m "feat: launch AETHER 925 boutique solid sterling silver showcase
 
-Co-authored-by: Zarmeen Hussain <339199342+zarmeenhussain@users.noreply.github.com>
+Co-authored-by: Zarmeen Hussain <zarmeenhussain05@gmail.com>
 Co-authored-by: Zohair Hingoro <student1596270aptechii@gmail.com>"
 ```
 
 > [!TIP]
-> **GitHub Email Matching**: Both contributors must use their verified GitHub addresses. Zarmeen's GitHub ID is `339199342`, meaning her verified noreply is `339199342+zarmeenhussain@users.noreply.github.com`.
+> **GitHub Email Matching**: Both contributors must use their verified GitHub addresses (`zarmeenhussain05@gmail.com` and `student1596270aptechii@gmail.com`).
 
 ---
 
