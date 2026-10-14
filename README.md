@@ -22,21 +22,15 @@
 
 Experience the full interactive user flow—from editorial hotspot exploration and multi-currency conversion to live cart management and instant search:
 
-https://github.com/user-attachments/assets/demo-video-placeholder
-
-> [!NOTE]
-> **Local Demo Playback**: The full high-definition video walkthrough is located in [`demovideo/demo.mp4`](demovideo/demo.mp4).
->
-> <details>
-> <summary>▶ <strong>Click to expand HTML5 Video Embed</strong></summary>
->
-> <div align="center">
->   <video src="demovideo/demo.mp4" controls="controls" width="100%" style="max-height: 520px; border-radius: 8px; border: 1px solid #334155;">
->     Your browser does not support the video tag. You can directly view <a href="demovideo/demo.mp4">demovideo/demo.mp4</a>.
->   </video>
-> </div>
->
-> </details>
+<div align="center">
+  <video src="demovideo/demo.mp4" controls="controls" width="100%" style="max-height: 520px; border-radius: 8px; border: 1px solid #334155; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+    Your browser does not support the video tag. You can view the demo video directly in <a href="demovideo/demo.mp4">demovideo/demo.mp4</a>.
+  </video>
+  <br>
+  <p align="center">
+    <sub>🎬 High-definition walkthrough recorded directly from the live application. File available in <code>demovideo/demo.mp4</code>.</sub>
+  </p>
+</div>
 
 ---
 
