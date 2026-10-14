@@ -293,3 +293,5 @@ Now, go to GitHub, click **Compare & pull request**, and merge it into `main`. B
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) — free for educational, personal, and commercial study.
+<!-- Co-authored with Zohair Hingoro -->
+
